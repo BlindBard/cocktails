@@ -1,5 +1,6 @@
 {
   "name": "cafe",
+  "homepage": "https://blindbard.github.io/cocktails/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
