@@ -1,0 +1,37 @@
+.home {
+  padding: 40px 0;
+}
+
+.label {
+  position: relative;
+}
+
+.promo {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  background-color: rgba(212, 19, 19, 0.5);
+  padding: 10px 16px;
+  border-radius: 6px;
+
+  span {
+    display: block;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #fff;
+  }
+}
+
+.tip {
+  padding-bottom: 40px;
+
+  p {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+.pageInstructions {
+  display: none;
+}
